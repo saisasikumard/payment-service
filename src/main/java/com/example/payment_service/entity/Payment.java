@@ -19,5 +19,7 @@ public class Payment {
     int paymentId;
     String paymentStatus;
     String TranscationId;
+    int orderId;
+    double amount;
 
 }
